@@ -1,1 +1,1 @@
-export default (props.world) => "Hello" + world
+export default (props) => "Hello" + props.world
